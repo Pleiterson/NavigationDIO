@@ -41,6 +41,9 @@ Neste projeto você aprenderá a desenvolver rotas com react native e facilitar 
 - [Eslint](https://github.com/eslint/eslint)
 - [@react-navigation](https://reactnavigation.org/docs/getting-started/)
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+- [styled-components](https://styled-components.com/docs)
+- [axios](https://github.com/axios/axios)
+- [jason-server](https://github.com/typicode/json-server)
 
 <!--License session-->
 <h3>📝 Licença</h3>

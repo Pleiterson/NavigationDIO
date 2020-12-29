@@ -10,19 +10,17 @@
   <img src="https://img.shields.io/github/license/Pleiterson/NavigationDIO?style=social" alt="Licença MIT">
 </p>
 
-
 <!--Banner session-->
 <p align="center">
-  <img src="./src/assets/img/cover_dio.png" alt="DIO" title="Digital Innovation One">
+  <img src="./src/assets/banner.png" alt="DIO" title="Digital Innovation One">
 </p>
-
 
 <!--About session-->
 <h1 align="center">Entendendo de métodos HTTPs e navegação com React Native<br>Digital Innovation One</h1>
 
-Curso do Bootcamp React Native Mobile Developer da [Digital Innovation One](https://digitalinnovation.one/).
+<img src="./src/assets/badge.png" title="Badge" width="70" height="70">
 
-<img src="./src/assets/img/badge.png" title="Badge" width="70" height="70">
+Curso do Bootcamp React Native Mobile Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
 Neste projeto você aprenderá a desenvolver rotas com react native e facilitar a navegação entre elas em seu aplicativo.
 

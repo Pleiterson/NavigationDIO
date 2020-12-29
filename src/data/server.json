@@ -1,1 +1,19 @@
-{ "techs": [] }
+{
+  "techs": [
+    {
+      "id": "Node.js"
+    },
+    {
+      "id": "React.js"
+    },
+    {
+      "id": "React Native"
+    },
+    {
+      "id": "Elixir"
+    },
+    {
+      "id": "Go Lang"
+    }
+  ]
+}

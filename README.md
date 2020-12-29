@@ -26,14 +26,12 @@ Neste projeto você aprenderá a desenvolver rotas com react native e facilitar 
 
 <!-- - [Projeto desenvolvido](https://clone-netflix.vercel.app/)
 
-<p align="center"><img src="./src/assets/img/projeto.gif" title="Clone Netflix - DIO"></p>
-<p align="center"><img src="./src/assets/img/projeto-responsivo.gif" title="Clone Netflix - DIO"></p> -->
+<p align="center"><img src="./src/assets/img/projeto.gif" title="HTTPs e Navegação - DIO"></p>
+<p align="center"><img src="./src/assets/img/projeto-responsivo.gif" title="HTTPs e Navegação - DIO"></p> -->
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Eslint](https://github.com/eslint/eslint)
@@ -42,6 +40,7 @@ Neste projeto você aprenderá a desenvolver rotas com react native e facilitar 
 - [styled-components](https://styled-components.com/docs)
 - [axios](https://github.com/axios/axios)
 - [jason-server](https://github.com/typicode/json-server)
+- [HTTPs](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
 <!--License session-->
 <h3>📝 Licença</h3>

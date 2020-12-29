@@ -3,7 +3,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
 import Techs from './pages/Techs';
-// import TechDetails from './pages/TechDetails';
+import TechDetails from './pages/TechDetails';
 
 const Stack = createStackNavigator();
 
@@ -19,14 +19,14 @@ export default function Routes() {
             headerTitleAlign: 'center',
           }}
         />
-        {/* <Stack.Screen
+        <Stack.Screen
           name="TechDetails"
           component={TechDetails}
           options={{
             title: 'Tech Details',
             headerTitleAlign: 'center',
           }}
-        /> */}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );
